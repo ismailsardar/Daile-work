@@ -1,0 +1,16 @@
+{
+  "name": "day-16",
+  "version": "1.0.0",
+  "description": "This is my first data Base 1",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node data.js"
+  },
+  "author": "Ismail Sardar",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.11.0"
+  }
+}

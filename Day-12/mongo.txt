@@ -1,0 +1,4 @@
+clasterName:  ismailDB
+password: 3GvJ185DX53sthBH
+
+My Server 
