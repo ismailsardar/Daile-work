@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 3rem;
+    text-align: center;
+    padding: 20px;
+    color: rgb(160, 7, 7);
+}
+img{
+    height: 100vh;
+    display: flex;
+    left: 0;
+    margin: auto;
+    /* align-items: center; */
+    /* justify-content: center; */
+}

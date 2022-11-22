@@ -1,0 +1,11 @@
+clasterName:  ismailDB
+password: 3GvJ185DX53sthBH
+
+My Server 
+
+whatsup invite link: https://chat.whatsapp.com/FrXuyY8TuQK7fD6yk2GRq5
+
+
+node-bootcamp: https://github.com/faisal2410/node-bootcamp
+
+Faysal git-hub: https://github.com/faisal2410/node-mongo-crud

@@ -1,0 +1,15 @@
+{
+  "name": "mongodb_basic",
+  "version": "1.0.0",
+  "description": "This is MongoDB Basic projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ismile sardar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.0"
+  }
+}
